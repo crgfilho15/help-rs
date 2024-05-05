@@ -1,0 +1,15 @@
+:root {
+    --cor-principal: #002451;
+    --cor-secundaria: white;
+    --cor-terciaria: antiquewhite;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--cor-terciaria);
+}

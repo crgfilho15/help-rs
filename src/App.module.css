@@ -1,0 +1,9 @@
+.campotitleDoacoes {
+    text-align: center;
+}
+
+.titleDoacoes {
+    color: var(--cor-principal);
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}

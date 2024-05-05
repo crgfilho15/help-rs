@@ -1,0 +1,31 @@
+.footer {
+    background-color: var(--cor-principal);
+    max-height: 100px;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerTitleImg {
+    display: flex;
+    align-items: center;
+}
+
+.headerImg {
+    max-height: 50px;
+    object-fit: cover;
+    margin-right: 1rem;
+}
+
+.headerTitle {
+    color: var(--cor-secundaria);
+    font-size: 2rem;
+}
+
+.logo {
+    max-height: 3.5vw;
+    min-height: 25px;
+    object-fit: cover;
+    margin-left: 1rem;
+}
