@@ -20,12 +20,12 @@
 
 .headerTitle {
     color: var(--cor-secundaria);
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .logo {
     max-height: 3.5vw;
     min-height: 25px;
     object-fit: cover;
-    margin-left: 1rem;
+    margin: 0.5rem;
 }
