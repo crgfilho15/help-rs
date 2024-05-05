@@ -1,8 +1,9 @@
 import { propTypes } from "react-bootstrap/esm/Image";
+import './Card.css';
 
 export function Card({ info }) {
   return (
-      <div className="card" style={{ maxWidth: `${info.width}`, marginBottom: "1rem", boxSizing: "border-box" }}>
+      <div className="card" id="card" style={{ maxWidth: `${info.width}`, marginBottom: "1rem", boxSizing: "border-box" }}>
         <img src={info.img} className="card-img-top" alt={info.title} style={{ objectFit: "cover" }} />
         <div className="card-body">
           <h5 className="card-title">{info.title}</h5>
