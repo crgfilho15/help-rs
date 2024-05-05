@@ -1,8 +1,38 @@
-# React + Vite
+# SOS Rio Grande do Sul
+Projeto para auxiliar na organização de doações para as enchentes no Rio Grande do Sul
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introdução
 
-Currently, two official plugins are available:
+O Rio Grande do Sul enfrenta um momento difícil com as enchentes. Para ajudar, criei um projeto que reúne informações importantes para doações.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Objetivo
+
+Este projeto visa facilitar a organização e o direcionamento das doações para os atingidos pelas enchentes no Rio Grande do Sul. Através da centralização de informações confiáveis e atualizadas, buscamos otimizar o processo de doação e garantir que os recursos cheguem às pessoas que mais precisam.
+
+## Funcionalidades
+
+O projeto oferece as seguintes funcionalidades:
+
+- Visualização da chave oficial de Pix para doações
+- Lista de locais de arrecadação
+- Informações sobre doações de sangue
+- Informações sobre as doações recebidas pela Defesa Civil
+
+## Tecnologia
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Contribuição
+
+O projeto é open-source e qualquer pessoa pode contribuir com sua participação.
+
+## Contato
+
+Para dúvidas, sugestões ou informações adicionais, entre em contato através do e-mail: crgfilho15@gmail.com
+
+## Juntos podemos fazer a diferença!
